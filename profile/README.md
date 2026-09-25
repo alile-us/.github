@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alile-us/.github/main/profile/assets/alileus.svg" width="100%" alt="Alileus — We build. Teams form." />
+<img src="https://raw.githubusercontent.com/alile-us/.github/main/profile/assets/studio-banner.svg" width="100%" alt="Alileus — We build. Teams form." />
 
 ## It starts with an idea
 

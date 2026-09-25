@@ -22,7 +22,6 @@
     <text x="52" y="177" fill="#3fe0c5">We build.</text>
     <text x="52" y="262" fill="#f4a93c">Teams form.</text>
   </g>
-  <path d="M56 307H774" stroke="#263044"/>
   <rect x="938" y="49" width="247" height="302" fill="#0f1522" stroke="#263044"/>
   <g transform="translate(1015 78) scale(0.66)" fill="#3fe0c5">
     <path d="M90 368H50V268H90V368Z"/>
