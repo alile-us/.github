@@ -23,8 +23,6 @@
     <text x="52" y="262" fill="#f4a93c">Teams form.</text>
   </g>
   <path d="M56 307H774" stroke="#263044"/>
-  <text x="56" y="348" fill="#9ca9bc" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1">SAUDI ARABIA</text>
-  <text x="774" y="348" text-anchor="end" fill="#9ca9bc" font-family="Arial, Helvetica, sans-serif" font-size="15">alile.us</text>
   <rect x="938" y="49" width="247" height="302" fill="#0f1522" stroke="#263044"/>
   <g transform="translate(1015 78) scale(0.66)" fill="#3fe0c5">
     <path d="M90 368H50V268H90V368Z"/>
