@@ -1,36 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="272" viewBox="0 0 960 272" role="img" aria-labelledby="title description">
   <title id="title">Alileus — We build. Teams form.</title>
-  <desc id="description">The Alileus venture studio banner, with mint and amber lettering, the Alileus logo, and a subtle geometric grid on a dark navy background.</desc>
-  <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#e9edf4" stroke-opacity="0.055"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0a0e16"/>
-      <stop offset="1" stop-color="#0a0e16" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="1280" height="400" fill="#0a0e16"/>
-  <rect x="744" width="536" height="400" fill="url(#grid)"/>
-  <rect x="744" width="200" height="400" fill="url(#fade)"/>
-  <rect x="0.5" y="0.5" width="1279" height="399" fill="none" stroke="#263044"/>
-  <rect x="56" y="55" width="8" height="8" fill="#3fe0c5"/>
-  <text x="78" y="65" fill="#e9edf4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">ALILEUS</text>
-  <path d="M202 48V70" stroke="#4c5870"/>
-  <text x="222" y="65" fill="#9ca9bc" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">VENTURE STUDIO</text>
+  <desc id="description">The studio's two-line headline and mint Alileus logomark on dark navy.</desc>
+  <rect width="960" height="272" fill="#0a0e16"/>
   <g font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="800" letter-spacing="-3">
-    <text x="52" y="177" fill="#3fe0c5">We build.</text>
-    <text x="52" y="262" fill="#f4a93c">Teams form.</text>
+    <text x="36" y="115" fill="#3fe0c5">We build.</text>
+    <text x="36" y="202" fill="#e9edf4">Teams form.</text>
   </g>
-  <path d="M56 307H774" stroke="#263044"/>
-  <text x="56" y="348" fill="#9ca9bc" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1">SAUDI ARABIA</text>
-  <text x="774" y="348" text-anchor="end" fill="#9ca9bc" font-family="Arial, Helvetica, sans-serif" font-size="15">alile.us</text>
-  <rect x="938" y="49" width="247" height="302" fill="#0f1522" stroke="#263044"/>
-  <g transform="translate(1015 78) scale(0.66)" fill="#3fe0c5">
+  <g transform="translate(822 53) scale(0.45)" fill="#3fe0c5">
     <path d="M90 368H50V268H90V368Z"/>
     <path d="M140 218V318H100V258H0V218H140Z"/>
     <path d="M140 154H90V164H140V204H0V164H50V114H140V154Z"/>
     <path fill-rule="evenodd" clip-rule="evenodd" d="M140 100H100V90H40V100H0V0H140V100ZM40 50H100V40H40V50Z"/>
   </g>
-  <path d="M926 49H938M938 37V49M1185 37V49M1185 49H1197M926 351H938M938 351V363M1185 351V363M1185 351H1197" fill="none" stroke="#3fe0c5" stroke-opacity="0.6"/>
 </svg>
