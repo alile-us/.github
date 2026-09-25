@@ -2,4 +2,4 @@
 
 We're a venture studio in Saudi Arabia. Some ideas start with us. Others come from founders we work with.
 
-[Our work](https://www.alile.us/en/t) · [Pitch an idea](https://www.alile.us/en/propose) · [Discord](https://discord.com/invite/alileus) · [العربية](https://www.alile.us/ar)
+[Our work](https://www.alile.us/en/t) · [Pitch an idea](https://www.alile.us/en/propose) · [Discord](https://discord.com/invite/alileus)
