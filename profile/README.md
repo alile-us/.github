@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alile-us/.github/main/profile/assets/alileus-banner.svg?v=2" width="100%" alt="We build. Teams form." />
+<img src="https://raw.githubusercontent.com/alile-us/.github/main/profile/assets/studio.svg" width="100%" alt="We build. Teams form." />
 
 We're a venture studio in Saudi Arabia. Some ideas start with us. Others come from founders we work with.
 
